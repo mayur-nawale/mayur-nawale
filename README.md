@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Nawale</h1>
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
-<img align="right" width=400 alt="coding" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw11bDANoFlXbuMQ1LbQVyQ2&ust=1677318914056000&source=images&cd=vfe&ved=2ahUKEwiK_tKB8q39AhWhUGwGHdcdBmYQjRx6BAgAEAo"
+<img align="right" width=400 alt="coding" scr="C:\Users\admin\Desktop\programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur-nawale&label=Profile%20views&color=0e75b6&style=flat" alt="mayur-nawale" /> </p>
 
